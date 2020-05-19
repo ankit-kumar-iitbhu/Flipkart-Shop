@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 18 22:57:18 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-28d3-4dfe-00000fc80fb0 
+on database directory memory:/home/nitya/ankit/SpringBoot/shop-api/e107b31a-c635-4fbb-ba02-c66ab0e6be15 with class loader org.springframework.boot.loader.LaunchedURLClassLoader@6267c3bb 
+Loaded from jar:file:/home/nitya/ankit/SpringBoot/shop-api/target/shop-api-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Private Build
+java.runtime.version=1.8.0_242-8u242-b08-0ubuntu3~16.04-b08
+user.dir=/home/nitya/ankit/SpringBoot/shop-api
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-91-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
